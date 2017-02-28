@@ -1,0 +1,15 @@
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\WinformContactManager.exe.config
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\WinformContactManager.exe
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\WinformContactManager.pdb
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.csprojResolveAssemblyReference.cache
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.contactForm.resources
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.Properties.Resources.resources
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.csproj.GenerateResource.Cache
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.exe
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.pdb
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\ContactManagerDB.mdf
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\ContactManagerDB_log.ldf
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\WinformContactManager.exe.manifest
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Debug\WinformContactManager.application
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.exe.manifest
+c:\users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Debug\WinformContactManager.application
