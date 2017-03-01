@@ -1,0 +1,14 @@
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\WinformContactManager.exe.config
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\ContactManagerDB.mdf
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\ContactManagerDB_log.ldf
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\WinformContactManager.exe.manifest
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\WinformContactManager.application
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\WinformContactManager.exe
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\bin\Release\WinformContactManager.pdb
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.contactForm.resources
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.Properties.Resources.resources
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.csproj.GenerateResource.Cache
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.exe.manifest
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.application
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.exe
+C:\Users\thisisacomputer\documents\visual studio 2015\Projects\WinformContactManager\WinformContactManager\obj\Release\WinformContactManager.pdb
